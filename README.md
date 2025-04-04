@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Narottam%20Sharma&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h1 align="center">⚡Linux Administrator • Full Stack Developer • AI/ML Enthusiast⚡</h1>
+<h1 align="center">⚡ Linux Administrator • Full Stack Developer • AI/ML Enthusiast ⚡</h1>
 
 <p align="center">
   <em>Building innovative solutions and automating tasks with a passion for Linux, full stack development, and emerging AI/ML technologies.</em>
@@ -20,7 +20,7 @@
 
 <!-- Tech Stack Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+System+Administration;Backend+Engineering;AI+%26+ML+Development;Python+Automation;Full+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EA9D3&center=true&vCenter=true&width=435&lines=Linux+System+Administration;Full+Stack+Development;AI+%26+ML+Development;Python+Automation" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
