@@ -20,7 +20,7 @@
 
 <!-- Tech Stack Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EA9D3&center=true&vCenter=true&width=435&lines=Linux+System+Administration;Full+Stack+Development;AI+%26+ML+Development;Python+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EA9D3&center=true&vCenter=true&width=435&lines=Linux+System+Administration;Full+Stack+Development;AI%2FML+Specialist;Python+Automation" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
