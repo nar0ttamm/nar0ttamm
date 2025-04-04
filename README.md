@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Narottam%20Sharma&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h1 align="center">⚡ Linux Administrator • Full Stack Developer • AI/ML Enthusiast ⚡</h1>
+<h1 align="center">⚡Linux Administrator • Full Stack Developer • AI/ML Enthusiast⚡</h1>
 
 <p align="center">
   <em>Building innovative solutions and automating tasks with a passion for Linux, full stack development, and emerging AI/ML technologies.</em>
