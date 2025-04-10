@@ -19,8 +19,8 @@
 <!-- Portfolio Website Showcase -->
 <div align="center">
   <h2>🌐 Portfolio Website</h2>
-  <a href="https://narottam.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-narottam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
+  <a href="https://narottam.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
   </a>
   <p align="center">
     <em>✨ Explore my digital realm and discover my journey through code ✨</em><br>
