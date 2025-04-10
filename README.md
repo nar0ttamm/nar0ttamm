@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Narottam%20Sharma&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h1 align="center">⚡Linux Administrator • Full Stack Developer • AI/ML Enthusiast⚡</h1>
+<h1 align="center">⚡ Linux Administrator • Full Stack Developer • AI/ML Enthusiast ⚡</h1>
 
 <p align="center">
   <em>Building innovative solutions and automating tasks with a passion for Linux, full stack development, and emerging AI/ML technologies.</em>
@@ -14,6 +14,18 @@
   <a href="https://x.com/_narottamm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.instagram.com/nar0ttamm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:narottam18879@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<!-- Portfolio Website Showcase -->
+<div align="center">
+  <h2>🌐 Portfolio Website</h2>
+  <a href="https://narottam.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-narottam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <p align="center">
+    <em>✨ Explore my digital realm and discover my journey through code ✨</em><br>
+    <sup>🚀 Projects • Skills • Experience • Contact 🚀</sup>
+  </p>
 </div>
 
 <br>
