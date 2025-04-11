@@ -84,11 +84,11 @@ class NarottamSharma:
 ## 🚀 Projects
 
 <div align="center">
-  <a href="https://github.com/nar0ttamm/truckoilcorp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nar0ttamm&repo=truckoilcorp&theme=radical" />
+  <a href="https://github.com/nar0ttamm/trinnitx-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nar0ttamm&repo=trinitx-solutions&theme=radical" />
   </a>
-  <a href="https://github.com/nar0ttamm/trinitx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nar0ttamm&repo=trinitx&theme=radical" />
+  <a href="https://github.com/nar0ttamm/hanu-sports">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nar0ttamm&repo=hanu-sports&theme=radical" />
   </a>
 </div>
 
