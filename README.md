@@ -81,17 +81,6 @@ class NarottamSharma:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-## 🚀 Projects
-
-<div align="center">
-  <a href="https://github.com/nar0ttamm/trinnitx-solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nar0ttamm&repo=trinitx-solutions&theme=radical" />
-  </a>
-  <a href="https://github.com/nar0ttamm/hanu-sports">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nar0ttamm&repo=hanu-sports&theme=radical" />
-  </a>
-</div>
-
 
 ## 🌱 Currently Learning
 
