@@ -92,12 +92,6 @@ class NarottamSharma:
   </a>
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nar0ttamm&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nar0ttamm&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🌱 Currently Learning
 
